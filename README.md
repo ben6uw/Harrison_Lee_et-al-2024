@@ -7,11 +7,11 @@ The figures [Fig_X] resulting from each analysis are indicated.
 
 1. Phenotype_files
    
-file = phenotype_summary.R
+	file = phenotype_summary.R
 
-a. Compile and characterize data [Figs 1A, S1]
+	a. Compile and characterize data [Figs 1A, S1]
 
-b. Dose-response [Fig 1b]
+	b. Dose-response [Fig 1b]
 
 c. Size analysis [Fig 1c, Fig S2]
 
