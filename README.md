@@ -7,20 +7,20 @@ The figures [Fig_X] resulting from each analysis are indicated.
 
 1. Phenotype_files 
 	file = phenotype_summary.R
-		a. Compile and characterize data [Figs 1A, S1]
+                a. Compile and characterize data [Figs 1A, S1]
 		b. Dose-response [Fig 1b]						
 		c. Size analysis [Fig 1c, Fig S2]
 	file = food deprivation files/food_deprivation_analysis.R
 		d. Food deprivation analysis [Fig 4C] 
 
-2. GWAS_files
+3. GWAS_files
 	file = GWAS_phenotype.R
 		a. GWAS phenotype
 	file = GBLUP.R
 		b. Heritability [Fig 2A]
 		c. Covariance Association Test [Fig 2B, 2C]
 
-3. Metabolomics_files
+4. Metabolomics_files
 	file = larva_rapa_metabolome.R
 		a. Data normalization
 		b. Association with phentoype [Figs 3A, 3B]
