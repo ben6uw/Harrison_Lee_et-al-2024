@@ -5,10 +5,10 @@ This GitHub is organized into parent folders for each of the following code sect
 Each contains at least one .R file with the R code, with reference to the data that is also available within the folder.
 The figures [Fig_X] resulting from each analysis are indicated.
 
-1. Phenotype_files 
-	file = phenotype_summary.R
-                a. Compile and characterize data [Figs 1A, S1]
-		b. Dose-response [Fig 1b]						
+1. Phenotype_files
+file = phenotype_summary.R
+a. Compile and characterize data [Figs 1A, S1]
+b. Dose-response [Fig 1b]						
 		c. Size analysis [Fig 1c, Fig S2]
 	file = food deprivation files/food_deprivation_analysis.R
 		d. Food deprivation analysis [Fig 4C] 
