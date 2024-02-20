@@ -1,0 +1,362 @@
+Current.MS.Compounds,ESI.Mode,HMDB.ID,KEGG.ID,Molecular.Formula,CAS,Pathways
+Trimethylamine (TMA),POS,HMDB00906,C00565,C3H9N,75-50-3,Methane metabolism; Microbial metabolism; Carbon metabolism
+Ethanolamine,POS,HMDB00149,C00189,C2H7NO,141-43-5,Glycerophospholipid metabolism; Retrograde endocannabinoid signaling
+Aminoacetone,POS,HMDB02134,C01888,C3H7NO,298-08-8,Glycine_ serine_ threonine metabolism
+1-Methylguanidine,POS,HMDB01522,C02294,C2H7N3,471-29-4,N/A
+Glycine,POS,HMDB00123,C00037,C2H5NO2,56-40-6,Primary bile acid biosynthesis; Purine metabolism; Glycine_ serine_ threonine metabolism
+Trimethylamine-N-Oxide (TMAO),POS,HMDB00925,C01104,C3H9NO,1184-78-7,Methane metabolism; Microbial metabolism; Two-component system
+Putrescine,POS,HMDB01414,C00134,C4H12N2,110-60-1,Arginine_ proline metabolism; D-Arginine_ D-ornithine metabolism; Glutathione metabolism
+betaAlanine,POS,HMDB00056,C00099,C3H7NO2,107-95-9,Pyrimidine metabolism; beta-Alanine metabolism; Propanoate metabolism; Pantothenate_ CoA biosynthesis
+Alanine,POS,HMDB00161,C00041,C3H7NO2,56-41-7,Alanine_ aspartate_ glutamate metabolism; Cysteine_ methionine metabolism; Taurine_ hypotaurine metabolism
+Sarcosine,POS,HMDB00271 ,C00213,C3H7NO2,107-97-1,Glycine_ serine_ threonine metabolism; Arginine_ proline metabolism 
+Betaine Aldehyde,POS,HMDB01252,C00576,C5H12NO,7418-61-3,Glycine_ serine_ threonine metabolism
+Cadaverine,POS,HMDB02322,C01672,C5H14N2,462-94-2,Lysine degradation; Glutathione metabolism; Topane_ piperidine_ pyridine alkaloid biosynthesis
+3-Aminoisobutyrate,POS,HMDB03911,C03284,C4H9NO2,144-90-1,Branched chain amino acid degradation
+Choline,POS,HMDB00097,C00114,C5H14NO,62-49-7,Glycine_ serine_ threonine metabolism; Glycerophospholipid metabolism; ABC transporters
+Dimethylglycine,POS,HMDB00092,C01026,C4H9NO2,1118-68-9,Glycine_ serine_ threonine metabolism
+L-2-Aminobutyric Acid,POS,HMDB00452,C02356,C4H9NO2,1492-24-6,Cysteine_ methionine metabolism
+2-Aminoisobutyric Acid,POS,HMDB01906,C03665,C4H9NO2,62-57-7,NA
+Serine,POS,HMDB00187,C00065,C3H7NO3,56-45-1,Glycine_ serine_ threonine metabolism; Monobactam biosynthesis; Cysteine_ methionine metabolism
+Hypotaurine,POS,HMDB00965,C00519,C2H7NO2S,300-84-5,Taurine_ hypotaurine metabolism
+Cytosine,POS,HMDB00630,C00380,C4H5N3O,71-30-7,Pyrimidine metabolism
+Histamine,POS,HMDB00870,C00388,C5H9N3,51-45-6,Histidine metabolism; Biosynthesis of alkaloids derived from histidine_ purine; Biosynthesis of secondary metabolites
+Creatinine,POS,HMDB00562,C00791,C4H7N3O,60-27-5,Arginine_ proline metabolism
+5_6-Dihydrouracil,POS,HMDB00076,C00429,C4H6N2O2,504-07-4,Pyrimidine metabolism; beta-Alanine metabolism; Pantothenate_ CoA biosynthesis
+Proline,POS,HMDB00162,C00148,C5H9NO2,147-85-3,Arginine_ proline metabolism; Carbapenem biosynthesis; Prodigiosin biosynthesis
+5-Aminovaleric Acid,POS,HMDB03355,C00431,C5H11NO2,660-88-8,Lysine degradation; Arginine_ proline metabolism; Microbial metabolism
+Betaine,POS,HMDB00043,C00719,C5H11NO2,107-43-7,Glycine_ serine_ threonine metabolism; ABC transporters
+Valine,POS,HMDB00883,C00183,C5H11NO2,72-18-4,Branched chain amino acid Degradation_ Biosynthesis; Penicillin_ cephalosporin biosynthesis
+Indole,POS,HMDB00738,C00463,C8H7N,120-72-9,Tryptophan metabolism; Phenylalanine_ tyrosine_ tryptophan biosynthesis; Benzoxazinoid biosynthesis
+Threonine,POS,HMDB00167,C00188,C4H9NO3,72-19-5,Glycine_ serine_ threonine metabolism; Monobactam biosynthesis; Branched chain amino acid biosynthesis
+Cysteine,POS,HMDB00574,C00097,C3H7NO2S,52-90-4,Glycine_ serine_ threonine metabolism; Cysteine_ methionine metabolism; Penicillin_ cephalosporin biosynthesis
+Niacinamide,POS,HMDB01406,C00153,C6H6N2O,98-92-0,Nicotinate_ nicotinamide metabolism; Longevity regulating pathway - worm; Vitamin digestion_ absorption
+Taurine,POS,HMDB00251,C00245,C2H7NO3S,107-35-7,Primary bile acid biosynthesis; Taurine_ hypotaurine metabolism; Sulfur metabolism
+1-Methylhistamine,POS,HMDB00898,C05127,C6H11N3,501-75-7,Histidine metabolism
+Imidazoleacetic Acid,POS,HMDB02024,C02835,C5H6N2O2,645-65-8,Histidine metabolism
+5_6-Dihydrothymine,POS,HMDB00079,C00906,C5H8N2O2,696-04-8,Mitochondrial neurogastrointestinal encephalopathy; Pyrimidine metabolism
+Pyroglutamic Acid,POS,HMDB00267,C01879,C5H7NO3,98-79-3,Glutathione metabolism
+Pipecolate,POS,HMDB00070,C00408,C6H11NO2,535-75-1,Lysine degradation; Topane_ piperidine_ pyridine alkaloid biosynthesis; Biosynthesis of plant secondary metabolites
+Agmatine,POS,HMDB01432,C00179,C5H14N4,306-60-5,Arginine_ proline metabolism
+N-Acetylputrescine,POS,HMDB02064,C02714,C6H14N2O,18233-70-0,Arginine_ proline metabolism
+Creatine,POS,HMDB00064,C00300,C4H9N3O2,57-00-1,Glycine_ serine_ threonine metabolism; Arginine_ proline metabolism 
+Hydroxyproline,POS,HMDB00725,C01157,C5H9NO3,51-35-4,Arginine_ proline metabolism; ABC transporters
+Aminolevulinate,POS,HMDB01149,C00430,C5H9NO3,106-60-5,Glycine_ serine_ threonine metabolism; Porphyrin_ Chlorophyll metabolism; Biosynthesis of plant secondary metabolites
+Leucine /D-Norleucine,POS,HMDB00687,C00123,C6H13NO2,61-90-5,Branched chain amino acid degradataion; Branched chain amino acid biosynthesis
+iso-Leucine /allo-isoLeucine,POS,HMDB00172/HMDB00557,C00407/C21096,C6H13NO2,73-32-5/1509-34-8,Branched chain amino acid Degradation_ Biosynthesis; Cyanoamino acid metabolism
+Ornithine,POS,HMDB0000214,C01602,C5H12N2O2,348-66-3,Lysinuric protein intolerance; Arginine_ proline metabolism; Glycine_ serine metabolism; Spermidine_ spermine biosynthesis; Urea cycle; Prolidase Deficiency
+Asparagine,POS,HMDB00168,C00152,C4H8N2O3,70-47-3,Alanine_ aspartate_ glutamate metabolism; Cyanamino acid metabolism; Aminoacyl-tRNA biosynthesis
+Aspartic Acid,POS,HMDB00191,C00049,C4H7NO4,56-84-8,Arginine biosynthesis; Alanine_ aspartate_ glutamate metabolism; Glycine_ serine_ threonine metabolism
+Homocysteine,POS,HMDB00742,C00155,C4H9NO2S,70-47-3,Cysteine_ methionine metabolism; Sulfur metabolism; Biosynthesis of secondary metabolites
+S-Methylcysteine,POS,HMDB02108,C22040,C4H9NO2Se,56-84-8,ABC Transporters
+1-Methylnicotinamide,POS,HMDB00699,C02918,C7H9N2O,3106-60-3,Nicotinate_ nicotinamide metabolism; Bile secretion
+Tyramine,POS,HMDB00306,C00483,C8H11NO,51-67-2,Tyrosine metabolism; Methane metabolism; Isoquinoline alkaloid biosynthesis
+4-Aminobenzoic Acid,POS,HMDB01392,C00568,C7H7NO2,150-13-0,Aminobenzoate degradation; Folate biosynthesis; Biosynthesis of phenylpropanoids; Microbial metabolism
+Trigonelline,POS,HMDB00875,C01004,C7H7NO2,535-83-1,Nicotinate_ nicotinamide metabolism
+1-Methylimidazole Acetate,POS,HMDB02820,C05828,C6H8N2O2,2625-49-2,Histidine metabolism
+Imidazole Propionate,POS,HMDB02271,C20522,C6H8N2O2,1074-59-5,Histidine metabolism
+Spermidine,POS,HMDB01257,C00315,C7H19N3,124-20-9,Arginine_ proline metabolism; beta-Alanine metabolism; Glutathione metabolism
+4-Guanidinobutanoate,POS,HMDB03464,C01035,C5H11N3O2,463-00-3,Arginine_ proline metabolism
+Acetylcholine,POS,HMDB00895,C01996,C7H16NO2,51-84-3,Glycerophospholipid metabolism; cAMP signaling pathway; Neuroactive ligand-receptor interaction
+Glutamine,POS,HMDB00641,C00064,C5H10N2O3,56-85-9,Arginine biosynthesis; Purine metabolism; Pyrimidine metabolism
+Lysine,POS,HMDB00182,C00047,C6H14N2O2,56-87-1,Lysine biosynthesis; Lysine degradation; Biotin metabolism
+Deoxycarnitine,POS,HMDB01161,C01181,C7H16NO2,407-64-7,Lysine degradation; ABC Transporters
+Glutamic acid,POS,HMDB0000148,C00025,C7H16NO2,6893-26-1,Arginine biosynthesis; Alanine_ aspartate_ glutamate metabolism; Arginine_ proline metabolism
+Methionine,POS,HMDB00696,C00073,C5H11NO2S,63-68-3,Cysteine_ methionine metabolism; Glucosinolate biosynthesis; Aminoacyl-tRNA biosynthesis
+Guanine,POS,HMDB00132,C00242,C5H5N5O,73-40-5,Purine metabolism
+Cystamine,POS,N/A,N/A,C4H12N2S2,51-85-4,N/A
+Histidine,POS,HMDB00177,C00135,C6H9N3O2,71-00-1,Histidine metabolism; Staurosporine biosynthesis; beta-Alanine metabolism
+Serotonin,POS,HMDB00259,C00780,C10H12N2O,50-67-9,Tryptophan metabolism; Biosynthesis of alkaloids derived from shikimate pathway; cAMP signaling pathway
+Tryptamine,POS,HMDB00303,C00398,C10H12N2,61-54-1,Tryptophan metabolism; Indole alkaloid biosynthesis; Biosynthesis of plant secondary metabolites
+Carnitine,POS,HMDB00062,C00487,C7H16NO3,541-15-1,Lysine degradation; ABC Transporters
+Phenylalanine,POS,HMDB00159,C00079,C9H11NO2,63-91-2,Phenylalanine metabolism; Phenylalanine_ tyrosine_ tryptophan biosynthesis; Cyanoamino acid metabolism
+Methionine Sulfoxide,POS,HMDB02005,C02989,C5H11NO3S,3226-65-1,Cysteine_ methionine metabolism
+7-Methylguanine,POS,HMDB00897,C02242,C6H7N5O,578-76-7,N/A
+Normetanephrine,POS,HMDB00819,C05589,C9H13NO3,97-31-4,Tyrosine metabolism
+Taurocyamine,POS,HMDB03584,C01959,C3H9N3O3S,543-18-0,Taurine_ hypotaurine metabolism
+Pyridoxamine,POS,HMDB01431,C00534,C3H9N3O3S,85-87-0,Vitamin B6 metabolism; Microbial metabolism; Vitamin digestion_ absorption
+1/3-Methylhistidine,POS,HMDB00001,C01152,C7H11N3O2,332-80-9,Histidine metabolism
+Norepinephrine,POS,HMDB00216,C00547,C8H11NO3,51-41-2,Tyrosine metabolism; Two-component system; Quorum sensing
+n-Glycylproline,POS,HMDB00721,N/A,C7H12N2O3,704-15-4,N/A
+Arginine,POS,HMDB00517,C00062,C6H14N4O2,74-79-3,Arginine biosynthesis; Monobactam biosynthesis; Arginine_ proline metabolism
+N-Acetylornithine,POS,HMDB03357,C00437,C7H14N2O3,6205-08-9,Arginine biosynthesis; Biosynthesis of secondary metabolites; 2-Oxocarboxylic acid metabolism; Biosynthesis of amino acids
+Cotinine,POS,HMDB01046,N/A,C10H12N2O,486-56-6,Nicotine action pathway; Nicotine metabolism pathway
+Cysteinyl-Glycine (Cys-Gly),POS,HMDB0000078,C01419,C5H10N2O3S,19246-18-5,Glutathione metabolism
+Gluconolactone,POS,HMDB00150,C00198,C6H10O6,90-80-2,Pentose phosphate pathway; Biosynthesis of secondary metabolites; Microbial metabolism; Carbon metabolism
+Glucosamine,POS,HMDB0001514,C00329,C6H13NO5,3416-24-8,Amino sugar_ nucleotide sugar metabolism; Phosphotransferase system
+Theobromine,POS,HMDB02825,C07480,C7H8N4O2,83-67-0,Caffeine metabolism; Biosynthesis of plant secondary metabolites; Biosynthesis of alkaloids derived from histidine_ purine
+1_7-Dimethylxanthine,POS,HMDB01860,C13747,C7H8N4O2,611-59-6,Caffeine metabolism; Biosynthesis of plant secondary metabolites; Biosynthesis of secondary metabolites; Microbial metabolism
+Tyrosine,POS,HMDB00158,C00082,C9H11NO3,60-18-4,Ubiquinone_ other terpenoid-quinone biosynthesis; Monobactam biosynthesis; Tyrosine metabolism
+Epinephrine,POS,HMDB00068,C00788,C9H13NO3,51-43-4,Tyrosine metabolism; Two-component system; Quorum sensing
+Se-Methylselenocysteine,POS,HMDB04113,C05689,C4H9NO2Se,26046-90-2,Selenocompound metabolism
+Phosphorylcholine,POS,HMDB01565,C00588,C5H15NO4P,3616-04-4,Glycerophospholipid metabolism; Choline metabolism in cancer
+N6-Acetyl-Lysine,POS,HMDB00206,C02727,C8H16N2O3,692-04-6,Lysine degradation
+Homoarginine,POS,HMDB00670,C01924,C7H16N4O2,156-86-5,NA
+N6-Trimethyllysine,POS,HMDB01325,C03793,C9H20N2O2,19253-88-4,Lysine degradation
+Homocitrulline,POS,HMDB00679,C02427,C7H15N3O3,1190-49-4,NA
+Caffeine,POS,HMDB01847,C07481,C8H10N4O2,58-08-2,Caffeine metabolism; Biosynthesis of plant secondary metabolites; Biosynthesis of alkaloids derived from histidine_ purine
+Salicylurate,POS,HMDB00840,C07588,C9H9NO4,487-54-7,Salicylate elimination
+DL DOPA,POS,HMDB00609,C00355,C9H11NO4,63-84-3,Tyrosine metabolism; Isoquinoline alkaloid biosynthesis; Betalain biosynthesis
+Selenomethionine,POS,HMDB03966,C05335,C5H11NO2Se,3211-76-5,Selenocompound metabolism
+Dimethylarginine (A/SDMA),POS,HMDB01539/HMDB03334,C03626,C8H18N4O2,ADMA 30315-93-6 SDMA 30344-00-4,NA
+Spermine,POS,HMDB01256,C00750,C10H26N4,71-44-3,Arginine_ proline metabolism; beta-Alanine metabolism; Glutathione metabolism; Bile secretion
+3-Indolebutyric Acid,POS,HMDB02096,C11284,C12H13NO2,133-32-4,NA
+Acetylcarnitine,POS,HMDB00201 ,C02571,C9H18NO4,3040-38-8,Insulin resistance
+Tryptophan,POS,HMDB00929,C00078,C11H12N2O2,73-22-3,Glycine_ serine_ threonine metabolism; Tryptophan metabolism; Phenylalanine_ tyrosine_ tryptophan biosynthesis
+L-Kynurenine,POS,HMDB00684,C00328,C10H12N2O3,2922-83-0,Tryptophan metabolism; African trypanosomiasis
+Phosphocreatine,POS,HMDB01511,C02305,C4H10N3O5P,67-07-2,Arginine_ proline metabolism
+N-Ac-Arginine,POS,HMDB04620,N/A,C8H16N4O3,155-84-0,NA
+Carnosine,POS,HMDB00033,C00386,C9H14N4O3,305-84-0,Histidine metabolism; beta-Alanine metabolism
+2'-Deoxycytidine,POS,HMDB00014,C00881,C9H13N3O4,951-77-9,Pyrimidine metabolism; ABC Transporters
+2'-Deoxyuridine,POS,HMDB0000012,C00526,C9H12N2O5,951-78-0,Pyrimidine metabolism; ABC Transporters
+Biopterin,POS,HMDB00468,C06313,C9H11N5O3,22150-76-1,NA
+Anserine,POS,HMDB00194,C01262,C10H16N4O3,584-85-0,Histidine metabolism; beta-Alanine metabolism
+Cystine,POS,HMDB00192,C00491,C6H12N2O4S2,56-89-3,Cysteine_ methionine metabolism; ABC Transporters; Ferroptosis; Protein digestion_ absorption
+Cytidine,POS,HMDB00089,C00475,C9H13N3O5,65-46-3,Pyrimidine metabolism; ABC Transporters
+Uridine,POS,HMDB00296,C00299,C9H12N2O6,58-96-8,Pyrimidine metabolism; ABC Transporters
+isoValerylcarnitine,POS,HMDB00688,C20826,C12H23NO4,31023-24-2,Lipid metabolism; Lipid transport; Fatty acid metabolism; Cell signaling; Lipid peroxidation
+Neopterin,POS,HMDB00845,C05926,C9H11N5O4,2009-64-5,Folate biosynthesis
+Glycerophosphocholine,POS,HMDB00086,C00670,C8H21NO6P,28319-77-9,Glycerophospholipid metabolism; Ether lipid metabolism; Choline metabolism in cancer
+5-Methylcytidine,POS,HMDB00982,N/A,C10H15N3O5,2140-61-6,NA
+Phosphotyrosine,POS,HMDB06049,C06501,C9H12NO6P,N/A,NA
+Succinylcarnitine,POS,HMDB61717,N/A,C11H19NO6,256928-74-2,Lipid metabolism; Lipid transport; Fatty acid metabolism; Lipid peroxidation
+Thiamine,POS,HMDB00235,C00378,C12H17N4OS,70-16-6,Thiamine metabolism; ABC Transporters; Sulfur relay system; Vitamin digestion_ absorption
+2_3-Diphosphoglyceric Acid,POS,HMDB01294,C01159,C3H8O10P2,138-81-8,Glycolysis_ Gluconeogenesis
+Deoxyguanosine,POS,HMDB00085,C00330,C10H13N5O4,961-07-9,Purine metabolism; ABC Transporters
+Adenosine,POS,HMDB00050,C00212,C10H13N5O4,58-61-7,Purine metabolism; ABC Transporters; cGMP-PKG signaling pathway
+Inosine,POS,HMDB00195,C00294,C10H12N4O5,58-63-9,Purine metabolism; ABC Transporters
+Glutarylcarnitine,POS,HMDB13130,N/A,C12H21NO6,102636-82-8,Lipid metabolism; Lipid transport; Fatty acid metabolism; Cell signaling; Lipid peroxidation
+1-Methyladenosine,POS,HMDB03331,C02494,C11H15N5O4,15763-06-1,NA
+6-Methyladenosine,POS,HMDB04044,N/A,C11H15N5O4,1867-73-8,NA
+Guanosine,POS,HMDB00133,C00387,C10H13N5O5,118-00-3,Purine metabolism; ABC Transporters
+Retinal,POS,HMDB01358,C00376,C20H28O,116-31-4,Retinol metabolism; Phototransduction; Vitamin digestion_ absorption
+Retinol,POS,HMDB00305,C19962,C20H30O,68-26-8,Lipid metabolism; Lipid transport; Fatty acid metabolism; Cell signaling; Lipid peroxidation
+Argininosuccinate,POS,HMDB00052,C03406,C10H18N4O6,2387-71-5,Arginine biosynthesis; Alanine_ aspartate_ glutamate metabolism; Biosynthesis of secondary metabolites; Biosynthesis of amino acids
+5'-Methylthioadenosine,POS,HMDB01173,C00170,C11H15N5O3S,2457-80-9,Cysteine_ methionine metabolism; Zeatin biosynthesis; Biosynthesis of plant secondary metabolites
+N2_N2-Dimethylguanosine,POS,HMDB04824,N/A,C12H17N5O5,2140-67-2,NA
+UMP,POS,HMDB0000288,C00105,C9H13N2O9P,58-97-9,Pyrimidine metabolism
+cAMP,POS,HMDB00058,C00575,C10H12N5O6P,60-92-4,Purine metabolism; Endocrine resistance; Biofilm formation - Pseudomonas aeruginosa_ Escherichia coli
+GMP,POS,HMDB01397,C00144,C10H14N5O8P,85-32-5,Purine metabolism; Biosynthesis of plant secondary metabolites; Biosynthesis of alkaloids derived from histidine_ purine
+Riboflavin,POS,HMDB00244,C00255,C17H20N4O6,83-88-5,Riboflavin metabolism; Biosynthesis of secondary metabolites; ABC Transporters; Vitamin digestion_ absorption
+SAH,POS,HMDB0000939,C00021,C14H20N6O5S,979-92-0,Cysteine_ methionine metabolism; Biosynthesis of amino acids
+Cholecalciferol,POS,HMDB00876,C05443,C27H44O,67-97-0,Steroid biosynthesis; Biosynthesis of secondary metabolites; Vitamin digestion_ Absorption; Rheumatoid arthritis
+Ergocalciferol,POS,HMDB00900,C05441,C28H44O,50-14-6,Steroid biosynthesis; Biosynthesis of secondary metabolites
+S-Adenosylmethionine (SAM),POS,HMDB01185,C00019,C15H22N6O5S,485-80-3,Monobactam biosynthesis; Cysteine_ methionine metabolism; Arginine_ proline metabolism; Zeatin biosynthesis; Biosynthesis of plant secondary metabolites; Biosynthesis of plant hormones
+CDP,POS,HMDB01546,C00112,C9H15N3O11P2,63-38-7,Pyrimidine metabolism
+Thiamine pyrophosphate,POS,HMDB0001372,C00068,C12H19N4O7P2S,154-87-0,Glycolysis_ Gluconeogenesis; TCA Cyle; Branched chain amino acid degradation
+Folic Acid,POS,HMDB00121,C00504,C19H19N7O6,59-30-3,One carbon pool by folate; Folate biosynthesis; Biosynthgesis of phenylpropanoids
+Vitamin K1,POS,HMDB03555,C02059,C31H46O2,84-80-0,Ubiquinone_ other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites; Vitamin digestion_ absorption
+Biliverdin,POS,HMDB01008,C00500,C33H34N4O6,114-25-0,Porphyrin_ chlorophyll metabolism; Biosynthesis of secondary metabolites
+NAD,POS,HMDB00902,C00003,C21H28N7O14P2,53-84-9,Oxidative phosphorylation; Thiamine metabolism; Nicotinate_ nicotinamide metabolism; Drug metabolism - other enzymes
+Methylcobalamin,POS,HMDB02274,C06453,C63H91CoN13O14P,13422-55-4,NA
+Cyanocobalamin (Vitamin B12),POS,HMDB00607,C02823,C62H88CoN13O14PR,68-19-9,Porphyrin_ chlorophyll metabolism
+NADPH,POS,HMDB00221,C00005,C21H30N7O17P3,53-57-6,Photosynthesis; Glutathione metabolism; Thyroid hormone synthesis; Aldosterone synthesis_ secretion
+Thyroxine,POS,HMDB00248,C01829,C15H11I4NO4,51-48-9,Tyrosine metabolism; Neuroactive ligand-receptor interaction; Thyroid hormone synthesis; Thyroid hormone signaling pathway
+FAD,POS,HMDB01248,C00016,C27H33N9O15P2,146-14-5,Riboflavin metabolism; Biosynthesis of secondary metabolites; Vitamin digestion_ absorption
+Adenosylcobalamin,POS,HMDB02086,C00194,C72H100CoN18O17P,13870-90-1,Porphyrin_ chlorophyll metabolism
+Ubiquinol,POS,HMDB13111,C11378,C59H90O4,5677-55-4,Ferroptosis
+Malondialdehyde,NEG,HMDB06112,C19440,C3H4O2,542-78-9,NA
+Glycolic acid,NEG,HMDB00115,C00160,C2H4O3,79-14-1,Photorespiration
+Pyruvate,NEG,HMDB00243,C00022,C3H4O3,127-17-3,Glycolysis_ gluconeogenesis; TCA Cyle; Branched chain amino acid biosynthesis
+Lactate,NEG,HMDB00190,C00186,C3H6O3,79-33-4,Glycolysis_ gluconeogenesis; Fructose_ mannose metabolism; Pyruvate metabolism; Propanoate metabolism
+Glyceraldehyde,NEG,HMDB01051,C00577,C3H6O3,56-82-6,Pentose phosphate pathway; Fructose_ mannose metabolism; Galactose metabolism; Glycerolipid metabolism
+3-Hydroxypropionic Acid,NEG,HMDB00700,C01013,C3H6O3,503-66-2,Pyrimidine metabolism; beta-Alanine metabolism; Propanoate metabolism; Carbon fixation pathways in prokaryotes
+isoValeric Acid /3-Oxobutanoic Acid/4-Oxobutanoic Acid,NEG,HMDB00718/HMDB0001259,C08262/C00232/C00164,C5H10O2/C4H6O3/C4H6O3,503-74-2/692-29-5/541-50-4,Biosynthesis of alkaloids derived from histidine_ purine; Biosynthesis of secondary metabolites; Protein digestion_ absorption
+2-Oxobutyrate,NEG,HMDB00005,C00109,C4H6O3,600-18-0,Glycine_ serine_ threonine metabolism; Cysteine_ methionine metabolism; Branched chain amino acid biosynthesis; Propanoate metabolism
+gamma-Aminobutyrate,NEG,HMDB0000112,C00334,C4H9NO2,56-12-2,Alanine_ aspartate_ glutamate metabolism; Arginine_ proline metabolism; beta-Alanine metabolism; Butanoate metabolism
+Malonic Acid,NEG,HMDB00691,C00383,C3H4O4,141-82-2,Fatty acid biosynthesis; Pyrimidine metabolism; beta-Alanine metabolism; Fatty acid metabolism
+3HBA,NEG,HMDB0000357,C01089,C4H8O3,300-85-6,Synthesis_ degradation of ketone bodies; Butanoate metabolism; cAMP signaling pathway
+2-Hydroxyisobutyrate/2-Hydroxybutyrate,NEG,HMDB00729,N/A,C4H8O3,594-61-4,NA
+Glycerate,NEG,HMDB00139,C00258,C3H6O4,473-81-4,Pentose phosphate pathway; Glycine_ serine_ threonine metabolism; Glycerolipid metabolism; Glyoxylate_ dicarboxylate metabolism
+Uracil,NEG,HMDB00300,C00106,C4H4N2O2,66-22-8,Pyrimidine metabolsim; beta-Alanine metabolism; Pantothenate_ CoA biosynthesis
+Fumaric Acid,NEG,HMDB00134,C00122,C4H4O4,110-17-8,TCA cycle; Oxidative phosphorylation; Arginine biosynthesis; Alanine_ aspartate_ glutamate metabolism
+Maleic Acid,NEG,HMDB00176,C01384,C4H4O4,110-16-7,Tyrosine metabolism; Butanoate metabolism; Nicotinate_ nicotinamide metabolism; Microbial metabolism
+N-AcetylGlycine,NEG,HMDB00532,N/A,C4H7NO3,543-24-8,NA
+Guanidinoacetate,NEG,HMDB00128,C00581,C3H7N3O2,352-97-6,Glycine_ serine_ threonine metabolism; Arginine_ proline metabolism 
+2-Hydroxyisovaleric Acid,NEG,HMDB00407,N/A,C5H10O3,4026-18-0,Lipid metabolism; Lipid transport; Fatty acid metabolism; Cell signaling; Lipid peroxidation
+Succinate,NEG,HMDB00254,C00042,C4H6O4,110-15-6,TCA cycle; Oxidative phosphorylation; Arginine biosynthesis; Alanine_ aspartate_ glutamate metabolism
+Methylmalonate,NEG,HMDB00202,C02170,C4H6O4,516-05-2,Pyrimidine metabolism; Branched chain amino acid degradation; Propanoate metabolism
+3-Hydroxyisovaleric Acid,NEG,HMDB00754,C20827,C5H10O3,625-08-1,Branched chain amino acid degradation
+Erythrose,NEG,HMDB02649,C01796,C4H8O4,1758-51-6,NA
+Threitol,NEG,HMDB04136,C16884,C4H10O4,2418-52-2,NA
+Nicotinic Acid,NEG,HMDB01488,C00253,C6H5NO2,59-67-6,Nicotinate_ nicotinamide metabolism; Tropane_ piperidine_ pyridine alkaoid biosynthesis
+Picolinic Acid,NEG,HMDB0002243,C10164,C6H5NO2,98-98-6,Tryptophan metabolism
+Thymine,NEG,HMDB00262,C00178,C5H6N2O2,65-71-4,Pyrimidine metabolism
+Citraconic Acid,NEG,HMDB00634,C02226,C5H6O4,498-23-7,Branched chain amino acid biosynthesis; C5-Branched dibasic acid metabolism; 2-Oxocarboxylic acid metabolism
+2-oxo-Isocaproic Acid,NEG,HMDB00695,C00233,C6H10O3,816-66-0,Branched chain amino acid Degradation_ Biosynthesis; Glucosinolate biosynthesis
+Itaconic Acid,NEG,HMDB02092,C00490,C5H6O4,97-65-4,C5-Branched dibasic acid metabolism
+N-Ac-Alanine,NEG,HMDB00766,N/A,C5H9NO3,97-69-8,Prostate cancer
+MethylSuccinate,NEG,HMDB01844,N/A,C5H8O4,498-21-5,Lipid metabolism; Lipid transport; Fatty acid metabolism; Ethylmalonic encephalopathy; Lipid peroxidation
+D-Leucic Acid,NEG,HMDB00624,C03264,C6H12O3,20312-37-2,Lipid metabolism; Lipid transport; Fatty acid metabolism; Cell signaling; Lipid peroxidation
+Glutaric Acid,NEG,HMDB00661,C00489,C5H8O4,110-94-1,Fatty acid degradation; Lysine degradation; Microbial metabolism
+Oxalacetate,NEG,HMDB00223,C00036,C4H4O5,328-42-7,Glycolysis_ gluconeogenesis; TCA Cycle; Alanine_ aspartate_ glutamate metabolism
+Ethylmalonic acid,NEG,HMDB00622,N/A,C5H8O4,601-75-2,Lipid metabolism; Lipid transport; Fatty acid metabolism; Ethylmalonic encephalopathy; Lipid peroxidation
+N-Carbamoyl-B-Alanine,NEG,HMDB00026,C02642,C4H8N2O3,462-88-4,Pyrimidine metabolism; beta-Alanine metabolism; Pantothenate_ CoA biosynthesis
+Malate,NEG,HMDB00156,C00149,C4H6O5,97-67-6,TCA cycle; Pyruvate metabolsim; Glyoxylate_ dicarboxylate metabolism; Methane metabolism
+Adenine,NEG,HMDB00034,C00147,C5H5N5,73-24-5,Purine metabolism; Zeatin biosynthesis
+Allopurinol,NEG,HMDB14581,D00224,C5H4N4O,315-30-0,Purine metabolism; Peroxisome
+Hypoxanthine,NEG,HMDB00157,C00262,C5H4N4O,68-94-0,Purine metabolism
+Phenylacetic Acid,NEG,HMDB00209,C07086,C8H8O2,103-82-2,Phenylalanine metabolism; Styrene degradation; Microbial metabolism
+Erythronic/Threonic Acid,NEG,HMDB00613/HMDB000943,NA/C01620,C4H8O5,13752-84-6,Ascorbate_ aldarate metabolism
+Anthranilic Acid,NEG,HMDB01123,C00108,C7H7NO2,118-92-3,Tryptophan metabolsim; Phenylalanine_ tyrosine_ tryptophan biosynthesis; Phenazine biosynthesis
+4-Hydroxybenzoic Acid,NEG,HMDB00500,C00156,C7H6O3,99-96-7,Ubiquinone_ other terpenoid-quinone biosynthesis; Benzoate degradation; Bisphenol degration; Toluene degradation; Aminobenzoate degradation
+Acetylphosphate,NEG,HMDB01494,C00227,C2H5O5P,590-54-5,Taurine_ hypotaurine metabolism; Pyruvate metabolism; Methane metabolism
+o-Phosphoethanolamine,NEG,HMDB0000224,C00346,C2H8NO4P,1071-23-4,Glycerophospholipid metabolsim; Sphingolipid metabolsim; Cationic antimicrobial peptide (CAMP) resistance; Sphingolipid signaling pathway
+n-isoButyrylglycine,NEG,HMDB00730,N/A,C6H11NO3,15926-18-8,Ethylmalonic encephalopathy
+Adipic Acid / 3-Methylglutaric Acid,NEG,HMDB00448/HMDB00752,C06104/NA,C6H10O4,124-04-9/626-51-7,Caprolactam degradation; Microbial metabolsim; Degradation of aromatic compounds
+Alpha-Ketoglutaric Acid,NEG,HMDB00208,C00026,C5H6O5,328-50-7,TCA Cycle; Pentose_ glucuronate interconversions; Ascorbate_ aldarate metabolsim; Arginine biosynthesis
+2-Methylglutaric Acid,NEG,HMDB00422,N/A,C6H10O4,617-62-9,Lipid metabolism; Lipid transport; Fatty acid metabolism; Cell signaling; Lipid peroxidation
+Mevalonate,NEG,HMDB00227,C00418,C6H12O4,150-97-0,Terpenoid backbone biosynthesis; Biosynthesis of plant secondary metabolites; Biosynthesis of terpenoids_ steroids; Biosynthesis of plant hormones
+2-Hydroxyglutarate,NEG,HMDB59655,C02630,C5H8O5,2889-31-8,Butanoate metabolism; C5-Branched dibasic acid metabolism
+Citramalic Acid,NEG,HMDB0000426,C00815,C5H8O5,597-44-4,Lipid metabolism; Lipid transport; Fatty acid metabolism; Lipid peroxidation
+L-Tartaric Acid,NEG,HMDB59916,C00898,C4H6O6,87-69-4,Glyoxylate_ dicarboxylate metabolism
+Xylose,NEG,HMDB00098,C00181,C5H10O5,58-86-6,Pentose_ glucuronate interconversions; Amino sugar_ nucleotide sugar metabolism; ABC Transporters
+alpha-Ketophenylacetic Acid,NEG,HMDB0001587,C02137,C8H6O3,611-73-4,Phenylalanine metabolism; Aminobenzoate degradation; Microbial metabolism
+Hydrocinnamic Acid,NEG,HMDB00764,C05629,C9H10O2,501-52-0,Phenylalanine metabolism; Meabolic pathways; Microbial metabolism; Degradation of aromatic compounds
+Oxypurinol,NEG,HMDB00786,C07599,C5H4N4O2,2465-59-0,NA
+Xanthine,NEG,HMDB00292,C00385,C5H4N4O2,69-89-6,Purine metabolism; Caffeine metabolism; Biosynthesis of plant secondary metbolites; Biosynthesis of alkaloids derived from histidine_ purine; Biosynthesis of secondary metabolites; Microbial metabolism
+2-Hydroxyphenylacetate,NEG,HMDB62635,C01983,C8H8O3,611-71-2,Aminobenzoate degradation; Microbial metabolism
+L-Mandelic Acid,NEG,HMDB00703,C01984,C8H8O3,90-64-2,Aminobenzoate degradation; Microbial metabolism
+Arabitol/Xylitol,NEG,HMDB00568,C01904,C5H12O5,488-82-4,Pentose_ glucuronate interconversions
+3/4-Hydroxyphenylacetic Acid,NEG,HMDB0000440/HMDB60390,C05593/C00642,C8H8O3,621-37-4/N/A,Tyrosine metabolism; Phenylalanine metabolism; Styrene degradation; Microbial metabolism
+3-Hydroxyanthranilic Acid,NEG,HMDB01476,C00632,C7H7NO3,548-93-6,Tryptophan metabolism; Aminobenzoate degradation; Microbial metabolism
+Dopamine,NEG,HMDB00073,C03758,C8H11NO2,62-31-7,Tyrosine metabolism
+3-Sulfinoanaline,NEG,HMDB0000996,C00606,C3H7NO4S,1115-65-7,Cysteine_ methionine metabolism; Taurine_ hypotaurine metabolism
+2_3-Dihydroxybenzoic Acid,NEG,HMDB00397,C00196,C7H6O4,303-38-8,Benzoate degradation; Aminobenzoate degradation; Biosynthesis of siderophore group nonribosomal peptides; Biosynthesis of phenylpropanoids; Biosynthesis of secondary metbolites; Microbial metabolism
+Gentisate,NEG,HMDB00152,C00628,C7H6O4,490-79-9,Tyrosine metabolism; Benzoate degradation; Naphalene degradation; Microbial metabolism
+Orotate,NEG,HMDB00226,C00295,C5H4N2O4,65-86-1,Pyrimidine metabolism
+Allantoin,NEG,HMDB00462,C01551,C4H6N4O3,97-59-6,NA
+n-isoValerylglycine,NEG,HMDB00678,N/A,C7H13NO3,16284-60-9,Ethylmalonic encephalopathy
+2-Aminoadipate,NEG,HMDB00510,C00956,C4H6N4O3,542-32-5,Lysine biosynthesis; Lysine degradation; Penicillin_ cephalosporin biosynthesis
+Indole-3-Carboxylic Acid,NEG,HMDB03320,C19837,C9H7NO2,771-50-6,NA
+Indole-2-Carboxylic Acid,NEG,HMDB02285,N/A,C9H7NO2,1477-50-5,NA
+3-Methyl-3-Hydroxyglutaric Acid,NEG,HMDB0000355,C03761,C6H10O5,503-49-1,Lipid metabolism; Lipid transport; Fatty acid metabolism; Lipid peroxidation
+PPA,NEG,HMDB00205,C00166,C9H8O3,156-06-9,Phenylalanine metabolism; Phenylalanine_ tyrosine_ tryptophan biosynthesis; Tropane_ piperidine_ pyridine alkaloid biosynthesis; Biosynthesis of plant secondary metabolites
+3-Hydroxycinnaminic Acid,NEG,HMDB02035,C00811,C9H8O3,501-98-4,Ubiquinone_ other terpenoid-quinone biosynthesis; Tyrosine metabolism; Phenylpropanoid biosynthesis; Biosynthesis of various secondary metabolites - part 2
+p-Coumaric Acid,NEG,HMDB01713,C12621,C9H8O3,14755-02-3,Phenylalanine metabolism; Microbial metabolism; Degradation of aromatic compounds
+Xylonate,NEG,HMDB60256,C05411,C5H10O6,4172-44-5,Pentose_ glucuronate interconversions; Ascorbate_ aldarate metabolism
+Phenyllactic Acid,NEG,HMDB0000779,C05607,C8H8O2,828-01-3,Phenylalanine metabolism; Tropane_ piperidine_ pyridine alkaoid biosynthesis; Biosynthesis of alkaoids derived from ornithine_ lysine_ nicotinic acid
+3-(4-Hydroxyphenyl)Propionate,NEG,HMDB02199,C01744,C9H10O3,501-97-3,NA
+Quinolinic Acid,NEG,HMDB0000232,C03722,C7H5NO4,89-00-9,Tryptophan metabolism; beta-Alanine metabolism; Nicotinate_ nicotinamide metabolism; Biosynthesis of plant secondary metabolites; Biosynthesis of alkaloids derived from ornithine_ lysine_ nicotinic acid
+PEP,NEG,HMDB00263,C00074,C3H5O6P,138-08-9,Glycolysis_ gluconeogenesis; TCA cycle; Phenylalanine_ tyruosine_ tryptophan biosynthesis; Phosphonate_ phosphinate metabolism
+Homogentisate,NEG,HMDB00130,C00544,C8H8O4,451-13-8,Ubiquinone_ other terpenoid-quinone biosynthesis; Tyrosine metabolism; Styrene degradation; Microbial metabolism
+Urate,NEG,HMDB00289,C00366 ,C5H4N4O3,69-93-2,Purine metabolism; Microbial metabolism; Bile secretion
+DHAP/D-GA3P,NEG,HMDB01473,C00111,C3H7O6P,57-04-5,Glycolysis_ gluconeogenesis; Pentose_ glucuronate interconversions; Fructose_ mannose metabolism
+Glycerol-3-P,NEG,HMDB00126,C00093,C3H9O6P,57-03-4,Glycerolipid metabolism; Glycerophospholipid metabolism; Biosynthesis of secondary metabolites; ABC Transporters; Choline metabolism in cancer
+trans-Aconitate,NEG,HMDB00958,C02341,C6H6O6,4023-65-8,C5-Branched dibasic acid metabolism
+Shikimic Acid,NEG,HMDB03070,C00493,C7H10O5,138-59-0,Phenylalanine_ tyrosine_ tryptophan biosynthesis; Biosynthesis of plant secondary metabolites; Biosynthesis of phenylpropanoids
+cis-Aconitate,NEG,HMDB00072,C00417,C6H6O6,585-84-2,TCA cycle; Glyoxylate_ dicarboxylate metabolism; C5-Branched dibasic acid metabolism
+Suberic Acid,NEG,HMDB00893,C08278,C8H14O4,505-48-6,Lipid metabolism; Lipid transport; Fatty acid metabolism; Lipid peroxidation
+Indole-3-Acetic Acid,NEG,HMDB00197,C00954,C10H9NO2,87-51-4,Tryptophan metabolism; Biosynthesis of plant hormones; Plant hormone signal transduction
+Citrulline,NEG,HMDB00904,C00327,C6H13N3O3,372-75-8,Arginine biosynthesis; Biosynthesis of various secondary metabolites - part 3; Biosynthesis of secondary metabolites; Biosynthesis of amino acids
+N-Acetyl-Aspartate (NAA),NEG,HMDB00812,C01042,C6H9NO5,997-55-7,Alanine_ aspartate_ glutamate metabolism
+Ascorbic Acid (Vit. C),NEG,HMDB00044,C00072,C6H8O6,50-81-7,Ascorbate_ aldarate metabolism; Glutathione metabolism; Biosynthesis of secondary metabolites
+2-isoPropylmalic Acid,NEG,HMDB00402,C02504,C7H12O5,3237-44-3,Branched chain amino acid biosynthesis; Pyruvate metabolism; Biosynthesis of secondary metabolites; 2-Oxocarboxylic acid metabolism; Biosynthesis of amino acids
+3-isoPropylmalic Acid,NEG,HMDB12156,C04411,C7H12O5,921-28-8,Branched chain amino acid biosynthesis; Biosynthesis of secondary metabolites; 2-Oxocarboxylic acid metabolism; Biosynthesis of amino acids
+n-Formylmethionine,NEG,HMDB01015,C03145,C6H11NO3S,4289-98-9,Cysteine_ methionine metabolism
+Hippuric Acid,NEG,HMDB00714,C01586,C9H9NO3,495-69-2,Phenylalanine metabolism
+Inositol,NEG,HMDB00211,C00137,C6H12O6,3458-28-4,Galactose metabolism; Ascorbate_ aldarate metabolism; Streptomycin biosynthesis
+Glucose,NEG,HMDB00122,C00031,C6H12O6,50-99-7,Glycolysis_ gluconeogenesis; Pentose phosphate pathway; Galactose metabolism; Starch_ sucrose metabolism
+Mannose,NEG,HMDB00169,C00159,C6H12O6,3458-28-4,Fructose_ mannose metabolism; Galactose metabolism; Amino sugar_ nucleotide sugar metabolism; ABC Transporters; Phosphotransferase system; Lysosome; C-type lectin recepter signaling pathway
+Fructose,NEG,HMDB00660,C00095,C6H12O6,53188-23-1,Fructose_ mannose metabolism; Galactose metabolism; Starch_ sucrose metabolism; Biosynthesis of secondary metabolites; Microbial metabolism
+OH-Phenylpyruvate,NEG,HMDB00707,C01179,C9H8O4,156-39-8,Ubiquionone_ other terpenoid-quinone biosynthesis; Monobactam biosynthesis; Tyrosine metabolism; Phenylalanine_ tyrosine_ tryptophan biosynthesis
+Theophylline,NEG,HMDB01889,C07130,C7H8N4O2,58-55-9,Caffeine metabolism; Biosynthesis of plant secondary metabolites; Biosynthesis of alkaloids derived from histidine_ purine
+Sorbitol,NEG,HMDB00247,C00794,C6H14O6,50-70-4,Fructose_ mannose metabolism; Galactose metabolism; ABC Transporters; Phosphotransferase system
+Homovanilate,NEG,HMDB00118,C05582,C9H10O4,306-08-1,Tyrosine metabolism; Dopaminergic synapse
+Mannitol,NEG,HMDB00765,C00392,C6H14O6,69-65-8,Fructose_ mannose metabolism; ABC Transporters; Phosphotransferase system
+4-Pyridoxic Acid,NEG,HMDB00017,C00847,C8H9NO4,82-82-6,Vitamin B6 metabolism; Microbial metabolism
+Phosphoserine,NEG,HMDB00272,C01005,C3H8NO6P,407-41-0,Glycine_ serine_ threonine metabolism; Cysteine_ methionine metabolism; Methane metabolism
+2/3-Phosphoglyceric Acid,NEG,HMDB0000362,C00197/C00597,C3H7O7P,2553-59-5,Glycolysis_ gluconeogenesis; Pentose phosphate pathway; Glycine_ serine_ threonine metabolism; Cysteine_ methionine metabolism
+Azelaic Acid,NEG,HMDB00784,C08261,C9H16O4,2553-59-5,Lipid metabolism; Lipid transport; Fatty acid metabolism; Lipid peroxidation
+N-Ac-L-Glutamine,NEG,HMDB06029,N/A,C7H12N2O4,2490-97-3,NA
+Kynurenic Acid,NEG,HMDB0000715,C01717,C10H7NO3,492-27-3,Tryptophan metabolism
+N-Ac-Glutamate,NEG,HMDB01138,C00624,C7H11NO5,1188-37-0,Argenine biosynthesis; Biosynthesis of secondary metabolites; 2-Oxocarboxylic acid metabolism; Biosynthesis of amino acids
+Indole-3-Propionate,NEG,HMDB02302,N/A,C11H11NO2,830-96-6,NA
+5-Hydroxyl-Indole-3-Acetic Acid,NEG,HMDB00763,C05635,C10H9NO3,54-16-0,Tryptophan metabolism; Serotonergic synapse
+N-Ac-Methionine,NEG,HMDB11745,C02712,C7H13NO3S,65-82-7,NA
+Citric Acid,NEG,HMDB00094,C00158,C6H8O7,77-92-9,TCA cycle; Alanine_ aspartate_ glutamate metabolism; Glyoxylate_ dicarboxylate metabolism
+Glucoronate,NEG,HMDB00127,C00191,C6H10O7,6556-12-3,Pentose_ glucuronate interconversions; Ascorbate_ aldarate metabolism; Amino sugar_ nucleotide sugar metabolism; Inositol phosphate metabolism
+4-Hydroxy-3-Nitrophenylacetate,NEG,HMDB62403,N/A,C8H7NO5,N/A,NA
+Vanilmandelic Acid,NEG,HMDB00291,C05584,C9H10O5,55-10-7,Tyrosine metabolism
+Erythrose-4-Phosphate,NEG,HMDB01321,C00279,C4H9O7P,585-18-2,Pentose phosphate pathway; Phenylalanine_ tyrosine_ tryptophan metabolism; Carbon fixation in photosynthetic organisms; Vitamin B6 metabolism
+Cysteine-S-Sulfate,NEG,HMDB00731,C05824,C3H7NO5S2,1637-71-4,Cysteine_ methionine metabolism; Biosynthesis of amino acids
+IndolePyruvate,NEG,HMDB60484,C00331,C11H9NO3,35656-49-6,Tryptophan metabolism
+Xanthurenic Acid,NEG,HMDB00881,C02470,C10H7NO4,59-00-7,Tryptophan metabolism
+Indole-3-Lactate,NEG,HMDB00671,C02043,C11H11NO3,1821-52-9,NA
+N-Ac-Phenylalanine,NEG,HMDB00512,C03519,C11H13NO3,2018-61-3,Phenylalanine metabolism
+3-Indoxyl Sulfate,NEG,HMDB00682,N/A,C8H7NO4S,487-94-5,NA
+Pantothenate,NEG,HMDB00210,C00864,C9H17NO5,79-83-4,beta-Alanine metabolism; Pantothenate_ CoA biosynthesis; Biosynthesis of secondary metabolites; Vitamin digestion_ absorption
+Cystathionine,NEG,HMDB00099,C02291,C7H14N2O4S,56-88-2,Glycine_ serine_ threonine metabolism; Cysteine_ methionine metabolism; Biosynthesis of secondary metabolites; Biosynthesis of amino acids
+N-Ac-Tyrosine,NEG,HMDB00866,C01657,C11H13NO4 ,537-55-3,NA
+Myristic Acid,NEG,HMDB0000806,C06424,C14H28O2,544-63-8,Fatty acid biosynthesis
+Ribose-5-P,NEG,HMDB01548,C00117,C5H11O8P,3615-55-2,Pentose phosphate pathway; Purine metabolism; Phosphonate_ phosphinate metabolism; Carbon fixation in photosynthetic organisms
+Ribulose 5-Phosphate,NEG,HMDB00618,C00199,C5H11O8P,4151-19-3,Pentose phsohpate pathway; Pentose_ glucuronate interconversions; Lipopolysaccharide biosynthesis; Methane metabolism
+Melatonin,NEG,HMDB01389,C01598,C13H16N2O2,73-31-4,Tryptophan metabolism; Neuroactive ligand-receptor interaction; Circadian entrainment
+Tetrahydrobiopterin,NEG,HMDB00027,C00272,C9H15N5O3,17528-72-2,Folate biosynthesis; Fluid shear stress_ atherosclerosis
+Thymidine,NEG,HMDB00273,C00214,C10H14N2O5,50-89-5,Pyrimidine metabolism
+Pseudouridine,NEG,HMDB00767,C02067,C9H12N2O6,1445-07-4,Pyrimidine metabolism
+Biotin,NEG,HMDB00030,C00120,C10H16N2O3S,58-85-5,Biotin metabolism; ABC Transporters; Vitamin digestion_ absorption
+N-Ac-Tryptophan,NEG,HMDB13713,N/A,C13H14N2O3,1218-34-4,NA
+Pyridoxal-5-P,NEG,HMDB01491,C00018,C8H10NO6P,54-47-7,Thiamine metabolism; Vitamin B6 metabolism; Vitamin digestion_ absorption
+Palmitic Acid,NEG,HMDB0000220,C00249,C16H32O2,57-10-3,Fatty acid biosynthesis; Fatty acid elongation; Fatty acid degradation; Cutin_ suberin_ wax biosynthesis
+5-Methyluridine,NEG,HMDB00884,N/A,C10H14N2O6,1463-10-1,NA
+5-Hydroxymethyl-2'-Deoxyuridine,NEG,N/A,N/A,C10H14N2O6,5116-24-5,NA
+Glucosamine-6-Phosphate,NEG,HMDB0001254,C00352,C6H14NO8P,3616-42-0,Alanine_ aspartate_ glutamate metabolism; Amino sugar_ nucleotide sugar metabolism; Phosphotransferase system; Insulin resistance
+G6P,NEG,HMDB0001401,C00092,C6H13O9P,56-73-5,Starch_ sucrose metabolism; Streptomycin biosynthesis; Neomycin_ kanamycin_ gentamicin biosynthesis; Inositol phosphate metabolism
+G1P/F1P/F6P,NEG,HMDB01586/HMDB01076/HMDB00124,C01094/C00085/C00103,C6H13O9P,59-56-3/15978-08-2/643-13-0,Fructose_ mannose metabolism; Phenylalanine_ tyrosine_ tryptophan biosynthesis; Microbial metabolism; Phosphotransferase system
+Phenylacetylglutamine,NEG,HMDB06344,C04148,C13H16N2O4,28047-15-6,Phenylalanine metabolism
+MOPEG Sulfate,NEG,HMDB00559,N/A,C9H12O7S,3415-67-6,NA
+Margaric Acid,NEG,HMDB02259,N/A,C17H34O2,506-12-7,Lipid metabolism; Lipid transport; Fatty acid metabolism; Cell signaling; Lipid peroxidation
+6-Phosphogluconic Acid,NEG,HMDB0001316,C00345,C6H13O10P,921-62-0,Pentose phosphate pathway; Biosynthesis of secondary metabolites; Microbial metabolism; Carbon metabolism
+Linolenic Acid,NEG,HMDB01388,C06427,C18H30O2,463-40-1,alpha-Linolenic acid metabolism; Biosynthesis of unsaturated fatty acids; Biosynthesis of plant secondary metabolites; Biosynthesis of plant hormones; Biosynthesis of secondary metabolites
+Linoleic Acid,NEG,HMDB00673,C01595,C18H32O2,60-33-3,Lenoleic acid metabolism; Biosynthesis of unsaturated fatty acids; Biosynthesis of plant secondary metabolites
+Xanthosine,NEG,HMDB00299,C01762,C10H12N4O6,146-80-5,Purine metabolism; Caffeine metabolism; Biosynthesis of alkaloids derived from histidine_ purine; Biosynthesis of secondary metabolites; ABC Transporters
+Sedoheptulose 7-Phosphate,NEG,HMDB01068,C05382,C7H15O10P,2646-35-7,Pentose phosphate pathway; Lipopolysaccharide biosynthesis; Carbon fixation in photosynthetic organisms; Biosynthesis of secondary metabolites
+Retinoic Acid,NEG,HMDB01852,C00777,C20H28O2,302-79-4,Retinol metabolism; Th17 cell differentiation; Intestinal immune network for IgA production; Pathways in cancer; Small cell lung cancer; Non-small lung cancer; Gastric cancer
+N-Acetyl-Aspartyl-Glutamate (NAAG),NEG,HMDB01067,C12270,C11H16N2O8,3106-85-2,Alanine_ aspartate_ glutamate metabolism; Neuroactive ligand-receptor interaction
+Arachidonate,NEG,HMDB60102,C00219,C20H32O2,506-32-1,Arachidonic acid metabolism; Linoleic acid metabolism; Biosynthesis of unsaturated fatty acids; Ferroptosis; Necroptosis
+DCMP,NEG,HMDB01202,C00239,C9H14N3O7P,1032-65-1,Pyrimidine metabolism
+Reduced Glutathione,NEG,HMDB00125,C00051,C10H17N3O6S,70-18-8,Cysteine_ methionine metabolism; Glutathione metabolism; ABC Transporters; Ferroptosis; Thyroid hormone synthesis; Bile secretion
+DUMP,NEG,HMDB01409,C00365,C9H13N2O8P,964-26-1,Pyrimidine metabolism; Antifolate resistance
+N-Acetylneuraminate,NEG,HMDB00230,C00270,C11H19NO9,19342-33-7,Amino sugar_ nucleotide sugar metabolism
+Geranyl Pyrophosphate,NEG,HMDB01285,C00341,C10H20O7P2,763-10-0,Ubiquionone_ other terpenoid-quinone biosynthesis; Terpinoid backbone biosynthesis; Monoterpenoid biosynthesis; Biosynthesis of plant secondary metabolites
+DTMP,NEG,HMDB01227,C00364,C10H15N2O8P,365-07-1,Pyrimidine metabolism; Antifolate resistance
+CMP,NEG,HMDB00095,C00055,C9H14N3O8P,63-37-6,Pyrimidine metabolism
+F16BP/F26BP/G16BP,NEG,HMDB01058/HMDB01047/HMDB03514,C00665/C00354/C01231,C6H14O12P2,34693-15-7/N/A/10139-18-1,Fructose_ mannose metabolism; AMPK signaling pathway; Glucagon signaling pathway; Central carbon metabolism in cancer
+Lactose/Trehalose,NEG,HMDB00186,C00243,C12H22O11,63-42-3,Galactose metabolism; ABC Transporters; Phosphotransferase system; Carbohydrate digestion_ absorption
+Sucrose,NEG,HMDB00258,C00089,C12H22O11,57-50-1,Galactose metabolism; Starch_ sucrose metabolism; Biosynthesis of secondary metabolites; ABC Transporters; Phosphotransferase system
+cGMP,NEG,HMDB01314,C00942,C10H12N5O7P,7665-99-8,Purine metabolism; cGMP-PKG signaling pathway; Vascular smooth muscle contraction; Gap junction
+Gibberellin,NEG,HMDB03559,C01699,C19H22O6,77-06-5,Diterpenoid biosynthesis; Biosynthesis of secondary metabolites
+AMP,NEG,HMDB00045,C00020,C10H14N5O7P,61-19-8,Purine metabolism; Zeatin biosynthesis; Biosynthesis of plant secondary metabolites; Biosynthesis of alkaloids derived from histidine_ purine; Biosynthesis of plant hormones
+IMP,NEG,HMDB00175,C00130,C10H13N4O8P,131-99-7,Purine metabholism; Biosynthesis of plant secondary metabolites; Biosynthesis of alkaloids derived from histidine_ purine; Biosynthesis of plant hormones
+PGE,NEG,HMDB0001220,C00584,C20H32O5,363-24-6,Arachidonic acid metabolism; cAMP signaling pathway; Neuroactive ligand-receptor interaction; C-type lectin receptor signaling pathway
+Cortisol,NEG,HMDB0000063,C00735,C21H30O5,50-23-7,Steroid hormone biosynthesis; Neuroactive ligand-receptor interaction; Cortisol synthesis_ secretion
+DCDP,NEG,HMDB01245,C00705,C9H15N3O10P2,800-73-7,Pyrimidine metabolism
+PRPP,NEG,HMDB00280,C00119,C5H13O14P3,7540-64-9,Pentose phosphate pathway; Purine metabolism; Pyrimidine metabolism; Histidine metabolism
+Deoxycholic Acid,NEG,HMDB00626,C04483,C24H40O4,83-44-3,Secondary bile acid biosynthesis; Bile secretion
+Chenodeoxycholate,NEG,HMDB00518,C02528,C24H40O4,474-25-9,Primary bile acid biosynthesis; Secondary bile acid biosynthesis; Bile secretion
+UDP,NEG,HMDB00295,C00015,C9H14N2O12P2,58-98-0,Pyrimidine metabolism; Zeatin biosynthesis; Neuroactive ligand-receptor interaction
+beta-Muricholic Acid,NEG,HMDB00865,C17726,C24H40O5,39016-49-4,Secondary bile acid biosynthesis
+Cholic Acid,NEG,HMDB00619,C00695,C24H40O5,81-25-4,Primary bile acid biosynthesis; Secondary bile acid biosynthesis; Bile secretion
+gamma-Tocopherol,NEG,HMDB01492,C02483,C28H48O2,54-28-4,Ubiquinone_ other terpenoid-quinone biosynthesis; Biosynthesis of secondary metabolites
+ADP,NEG,HMDB01341,C00008,C10H15N5O10P2,58-64-0,Oxidative phosphorylation; Photosynthesis; Purine metabolism; Zeatin biosynthesis
+alpha-Tocopherol,NEG,HMDB01893,C02477,C29H50O2,59-02-9,Ubiquionone_ other terpenoid-quinone biosynthesis; Biosynthesis of plant secondary metabolites; Biosynthesis of secondary metabolites; Ferroptosis; Vitamin digestion_ absorption
+GDP,NEG,HMDB01201,C00035,C10H15N5O11P2,146-91-8,Purine metabolism; RNA tr5ansport; Ras signaling pathway; Rap1 signaling pathway; Autophagy - animal; Endocytosis
+Glycochenodeoxycholate,NEG,HMDB00637,C05466,C26H43NO5,640-79-9,Primary bile acid biosynthesis; Secondary bile acid biosynthesis; Bile secrection; Cholesterol metabolism
+Adenylosuccinate,NEG,HMDB00536,C03794,C14H18N5O11P,19046-78-7,Purine metabolism; Alanine_ aspartate_ glutamate metabolism
+Glycocholate,NEG,HMDB00138,C01921,C26H43NO6,475-31-0,Primary bile acid biosynthesis; Secondary bile acid biosynthesis; Bile secretion; Cholesterol metabolism
+Cholesteryl Sulfate,NEG,HMDB00653,C18043,C27H46O4S,1256-86-6,Steroid hormone biosynthesis
+dCTP,NEG,HMDB0000998,C00458,C9H16N3O13P3,2056-98-6,Pyrimidine metabolism
+DUTP,NEG,HMDB01191,C00460,C9H16N3O13P3,1173-82-6,Pyrimidine metabolism
+TTP,NEG,HMDB0001342,C00459,C10H17N2O14P3,365-08-2,Pyrimidine metabolism
+CTP,NEG,HMDB00082,C00063,C9H16N3O14P3,65-47-4,Pyrimidine metabolism; Mannose type O-glycan biosynthesis
+DATP,NEG,HMDB0001532,C00131,C10H16N5O12P3,1927-31-7,Purine metabolism
+ATP,NEG,HMDB00538,C00002,C10H16N5O13P3,56-65-5,Oxidative phosphorylation; Photosynthesis; Purine metabolism; Zeatin biosynthesis
+Phosphoadenosine Phosphosulfate,NEG,HMDB01134,C00053,C10H15N5O13P2S,482-67-7,Purine emtabolism; Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate_ heparin sulfate / heparin
+Tauro-alpha/beta-Muricholic Acid,NEG,HMDB00932,N/A,C26H45NO7S,25696-60-0,Lipid metabolism; Lipid transport; Fatty acid metabolism; Cell signaling; Lipid peroxidation
+Taurocholate,NEG,HMDB00036,C05122,C26H45NO7S,81-24-3,Primary bile acid biosynthesis; Secondary bile acid biosynthesis; Taurine_ hypotaurine metabolism; Bile secretion; Cholesterol metabolism
+GTP,NEG,HMDB01273,C00044,C10H16N5O14P3,86-01-1,Purine metabolism; Riboflavin metabolism; Folate biosynthesis; Biosynthesis of secondary metabolites; Biofilm formation - Pseudomonas aeruginosa; RNA transport
+UDP-Glucose,NEG,HMDB00286,C00029,C15H24N2O17P2,133-89-1,Pentose_ glucuronate interconversions; Galactose metabolism; Ascorbate_ aldarate metabolism; Pyrimidine metabolism
+UDP-GlcNAc,NEG,HMDB00290,C00043,C17H27N3O17P2,528-04-1,Amino sugar_ nucleotide sugar metabolism; Neomycin_ kanamycin_ gentamicin biosynthesis
+Oxidized Glutathione,NEG,HMDB03337,C00127,C17H27N3O17P2,27025-41-8,Glutathione metabolism; Ferroptosis; Thryoid hormone synthesis
+NADH,NEG,HMDB01487,C00004,C21H29N7O14P2,58-68-4,Oxidative phosphorylation; Calcium signaling pathway; Thermogenesis; Aldosterone synthesis_ secretion
+NADP,NEG,HMDB00217,C00006,C21H29N7O17P3,53-59-8,Photosynthesis; Glutathione metabolism; Nicotinate_ nicotinamide metabolism; Drug metabolism; Thyroid hormone synthesis; Aldosterone synthesis_ secretion
