@@ -7,7 +7,7 @@ Benjamin R Harrison, Mitchell B Lee, Shufan Zhang, Bill Young, Kenneth Han, Jira
 
 PMID: 39135281 PMCID: PMC11561674
 
-This GitHub is organized into parent folders for each of the following code sections:
+This repository is organized into parent folders for each of the following code sections:
 Each contains at least one .R file with the R code, with reference to the data that is also available within the folder.
 The figures [Fig_X] resulting from each analysis are indicated.
 
