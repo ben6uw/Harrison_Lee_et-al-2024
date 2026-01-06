@@ -1,5 +1,8 @@
 # Harrison_Lee_et-al-2024
-Wide ranging genetic variation in sensitivity to rapamycin in Drosophila melanogaster
+**Wide ranging genetic variation in sensitivity to rapamycin in *Drosophila melanogaster***
+Benjamin R Harrison, Mitchell B Lee, Shufan Zhang, Bill Young, Kenneth Han, Jiranut Sukomol, Vanessa Paus, Sarina Tran, David Kim, Hannah Fitchett, Yu-Chen Pan, Philmon Tesfaye, Alia W Johnson, Xiaqing Zhao, Danijel Djukovic, Daniel Raftery, Daniel E L Promislow
+
+*Aging Cell* 2024 Nov;23(11):e14292. doi: 10.1111/acel.14292
 
 This GitHub is organized into parent folders for each of the following code sections:
 Each contains at least one .R file with the R code, with reference to the data that is also available within the folder.
@@ -7,7 +10,7 @@ The figures [Fig_X] resulting from each analysis are indicated.
 
 1. Phenotype_files
    
-	file = phenotype_summary.R
+	file: *phenotype_summary.R*
 
 		a. Compile and characterize data [Figs 1A, S1]
 
@@ -15,18 +18,18 @@ The figures [Fig_X] resulting from each analysis are indicated.
 
 		c. Size analysis [Fig 1c, Fig S2]
 
-	file = food deprivation files/food_deprivation_analysis.R
+	file: *food deprivation files/food_deprivation_analysis.R*
 
 		d. Food deprivation analysis [Fig 4C] 
 
 
 3. GWAS_files
 
-	file = GWAS_phenotype.R
+	file: *GWAS_phenotype.R*
 
 		a. GWAS phenotype
 
-	file = GBLUP.R
+	file: *GBLUP.R*
 
 		b. Heritability [Fig 2A]
 
@@ -35,7 +38,7 @@ The figures [Fig_X] resulting from each analysis are indicated.
 
 6. Metabolomics_files
    
-	file = larva_rapa_metabolome.R
+	file: *larva_rapa_metabolome.R*
 
 		a. Data normalization
 
@@ -43,6 +46,6 @@ The figures [Fig_X] resulting from each analysis are indicated.
 
 		c. Enrichment analysis
 
-	file= starving_larva_Jouandin_Science_2022
+	file: *starving_larva_Jouandin_Science_2022*
 
 		a. Starvation analysis [Fig 4A, 4B]
